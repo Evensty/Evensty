@@ -54,7 +54,7 @@
 
 ### [UI autotests](https://github.com/Evensty/demoqa-ui-tests) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
-### [API autotests](https://github.com/Evensty/petstore-api-tests) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
+### [API autotests](https://github.com/Evensty/reqres-api-tests) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
 ### [Mobile autotests](https://github.com/Evensty/wikipedia-mobile-tests) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
