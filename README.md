@@ -1,6 +1,6 @@
 <div align="center">
    <h1>
-      Greetings traveler!:smiley:
+      Greetings, traveler!:smiley:
    </h1>
 </div>
 
